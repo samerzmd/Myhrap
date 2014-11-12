@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Sam\Documents\GitHub\test\ImageDownload\app\build\intermediates\pre-dexed\debug\android-query-full.0.26.8-55e9b72face73167c840d777b2a51dc3863adaa5.jar"
+        jar="C:\Users\Sam\Documents\GitHub\test\ImageDownload\app\libs\android-query-full.0.26.8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="5ab405d9f4eaf5ddd615967cd35650657b758d40"/>
+    <item
+        dex="C:\Users\Sam\Documents\GitHub\test\ImageDownload\app\build\intermediates\pre-dexed\debug\gson-2.2.4-86dc80e6cd4d06a21fe36a05c24ee2dff3e2444f.jar"
+        jar="C:\Users\Sam\Documents\GitHub\test\ImageDownload\app\libs\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8"/>
+    <item
+        dex="C:\Users\Sam\Documents\GitHub\test\ImageDownload\app\build\intermediates\pre-dexed\debug\sanselan-0.97-incubator-e0bb66f3f6f82d8b0efb633d5fcf9ea0924a4090.jar"
+        jar="C:\Users\Sam\.gradle\caches\modules-2\files-2.1\org.apache.sanselan\sanselan\0.97-incubator\8396778b076a2eaf62024b64f6d924e4e0095fca\sanselan-0.97-incubator.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8396778b076a2eaf62024b64f6d924e4e0095fca"/>
+
+</pre-dex-items>
